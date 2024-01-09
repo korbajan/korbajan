@@ -1,11 +1,10 @@
-Hi 👋 My name is korbajan
-=========================
+Hi 👋
+====
 
-Software Engineer
+I'm Software Engineer
 -----------------
 
 *   🌍  I'm based in Poland
-*   ✉️  You can contact me at [korbajan@protonmail.com](mailto:korbajan@protonmail.com)
 *   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on bash, python, go, rust projects
 
