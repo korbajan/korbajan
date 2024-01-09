@@ -6,7 +6,7 @@ I'm Software Engineer
 
 *   🌍  I'm based in Poland
 *   🧠  I'm learning Rust
-*   🤝  I'm open to collaborating on bash, python, go, rust projects
+*   🤝  I'm open to collaborate on bash, python, go, rust projects
 
 ### Skills 
 <p align="left">
